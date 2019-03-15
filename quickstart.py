@@ -171,9 +171,9 @@ def main():
                      fullBody = (GetMessageBody(service,'me',message['id']))
                      goodString = stringFixer(fullBody)
                      test = create_message('footballshane@gmail.com','footballshane@gmail.com','In case ya missed it',fullBody)
-                     SendMessage(service,'footballshane@gmail.com',test)
-                     DeleteMessage(service,'me',message['id'])
-                     sendData(goodString)
+                     #SendMessage(service,'footballshane@gmail.com',test)
+                     #DeleteMessage(service,'me',message['id'])
+                     #sendData(goodString)
 
             time.sleep(5)
     except KeyboardInterrupt:
