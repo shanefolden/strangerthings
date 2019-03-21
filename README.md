@@ -5,6 +5,8 @@ This is based off of the scene in stranger things where Will lights up christmas
 
 ## Hardware
 - Arduino Uno (knockoff version since it was way cheaper)
+- ALITOVE WS2811 Individually addressable LEDs 
+  - standard LEDs wouldnt work since we need to light up specific bulbs for each letter
 
 
 
