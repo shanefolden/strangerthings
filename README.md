@@ -10,7 +10,7 @@ This is based off of the scene in stranger things where Will lights up christmas
 - Basic USB webcam 
   - This isnt required, I just got it so I could livestream the lights on my website so people could see their entries go through
  - Really old laptop
-  - I'm just using this temporarily to run the python script and OBS, the streaming software. 
+    - I'm just using this temporarily to run the python script and OBS, the streaming software. 
   
 ## How it works
 
