@@ -25,8 +25,10 @@ I then set up a usb webcam on my closet door, run it through OBS on the laptop a
 ## Current Problems
 - On rare occasions, formspree decides to take 2-5 minutes to send an email which results in a huge delay
   - This will be fixed once I start hosting the site and can write PHP, cutting out formspree entirely
+  
 - The school wifi here is really bad so sometimes the laptop disconnects without me noticing which breaks everything
   - This should be fixed once I move everything over to my raspberry pi which has a wired connection
+  
 - I add the character '>' at the end of the string I send the arduino that way it knows when the message is over. However, I don't sanitize inputs for that character so if the message contains '>' it could mess with the output to the wall. 
     - This could be fixed super easily whenever I get around to it, I'm just kind of lazy
  
